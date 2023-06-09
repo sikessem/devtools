@@ -1,0 +1,65 @@
+{
+    "name": "sikessem/devtools",
+    "description": "🧪 Sikessem development and automation tools.",
+    "homepage": "https://packagist.org/packages/sikessem/devtools",
+    "keywords": [
+        "sikessem",
+        "lint",
+        "test",
+        "testing",
+        "refactor",
+        "pint",
+        "pest",
+        "rector",
+        "psalm",
+        "phpstan",
+        "var-dump",
+        "devtools",
+        "dev-tools",
+        "test-tools",
+        "testing-tools",
+        "test-automation",
+        "automated-testing",
+        "php",
+        "dev",
+        "sikessem"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SIGUI Kessé Emmanuel",
+            "email": "contact@sigui.ci",
+            "homepage": "https://sigui.ci"
+        }
+    ],
+    "support": {
+        "source": "https://github.com/sikessem/devtools",
+        "issues": "https://github.com/sikessem/devtools/issues",
+        "chat": "https://github.com/orgs/sikessem/discussions"
+    },
+    "require": {
+        "php": "^8.1||^8.2",
+        "laravel/pint": "^1.10",
+        "pestphp/pest": "^2.6",
+        "phpstan/phpstan": "^1.10",
+        "phpunit/phpunit": "^10.1",
+        "rector/rector": "^0.16",
+        "symfony/var-dumper": "^6.2",
+        "vimeo/psalm": "^5.12"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-main": "0.x-dev"
+        }
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "preferred-install": "dist",
+        "sort-packages": true,
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
