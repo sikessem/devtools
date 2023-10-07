@@ -39,11 +39,13 @@
 
 ***
 
-# 🧪 Sikessem development and automation tools
+# 🧪 Sikessem DevTools
+
+PHP development, debugging, testing and automation tools.
 
 ## 🔖 Contents
 
-- [🧪 Sikessem development and automation tools](#-sikessem-development-and-automation-tools)
+- [🧪 Sikessem DevTools](#-sikessem-devtools)
   - [🔖 Contents](#-contents)
   - [📋 Requirements](#-requirements)
   - [⚡️ Installation](#️-installation)
@@ -63,21 +65,21 @@
 
 Install [Sikessem DevTools](https://packagist.org/packages/sikessem/devtools) using [Composer](https://getcomposer.org/):
 
-- By adding the `sikessem/devtools` dependency to your `composer.json` file:
+- By including the dependency:
 
-    ```json
-    {
-        "require" : {
-            "sikessem/devtools": "^0.x-dev"
-        }
+  ```bash
+  composer require sikessem/devtools --dev --with-all-dependencies
+  ```
+
+- Or by adding the `sikessem/devtools` dependency to your `composer.json` file:
+
+  ```json
+  {
+    "require" : {
+      "sikessem/devtools": "^0.2"
     }
-    ```
-
-- Or by including the dependency:
-
-    ```bash
-    composer require sikessem/devtools --dev --with-all-dependencies
-    ```
+  }
+  ```
 
 ## 👏 Contribution
 
