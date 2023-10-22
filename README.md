@@ -76,7 +76,7 @@ Install [Sikessem DevTools](https://packagist.org/packages/sikessem/devtools) us
   ```json
   {
     "require-dev" : {
-      "sikessem/devtools": "^0.3"
+      "sikessem/devtools": "^0.4"
     }
   }
   ```
