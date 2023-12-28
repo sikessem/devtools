@@ -57,20 +57,20 @@
         "chat": "https://github.com/orgs/sikessem/discussions"
     },
     "require": {
-        "php": "^8.1||^8.2",
+        "php": ">=8.1",
         "fakerphp/faker": "^1.23",
         "laravel/pint": "^1.13",
         "mockery/mockery": "^1.6",
-        "nunomaduro/collision": "^7.10",
-        "nunomaduro/phpinsights": "^2.9",
-        "pestphp/pest": "^2.23",
+        "nunomaduro/collision": "^8.0",
+        "nunomaduro/phpinsights": "^2.11",
+        "pestphp/pest": "^2.30",
         "phpstan/phpstan": "^1.10",
-        "phpunit/phpunit": "^10.4",
-        "rector/rector": "^0.18.5",
+        "phpunit/phpunit": "^10.5",
+        "rector/rector": "^0.18.13",
         "spatie/ignition": "^1.11",
-        "spatie/ray": "^1.39",
-        "symfony/var-dumper": "^6.3",
-        "vimeo/psalm": "^5.15"
+        "spatie/ray": "^1.40",
+        "symfony/var-dumper": "^6.4",
+        "vimeo/psalm": "^5.18"
     },
     "extra": {
         "branch-alias": {
