@@ -58,7 +58,7 @@ PHP development, debugging, testing and automation tools.
 
 ## 📋 Requirements
 
-> - **Requires [PHP 8.1+](https://php.net/releases/)** (at least 8.1.19 recommended to avoid potential bugs).
+> - **Requires [PHP 8.2+](https://php.net/releases/)** (at least 8.2.14 recommended to avoid potential bugs).
 > - **Requires [Composer v2+](https://getcomposer.org/)** to manage PHP dependencies.
 
 ## ⚡️ Installation
