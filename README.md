@@ -54,7 +54,7 @@ Install [PHP Dev Tools](https://packagist.org/packages/sikessem/devtools) using 
   ```json
   {
     "require-dev" : {
-      "sikessem/devtools": "^0.8"
+      "sikessem/devtools": "^0.9"
     }
   }
   ```
