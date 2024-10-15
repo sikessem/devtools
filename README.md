@@ -1,10 +1,10 @@
-<div align="center">
+<p align="center">
   <a href="https://github.com/sikessem" target="__blank" title="Sikessem">
     <img src="https://github.com/sikessem/art/blob/HEAD/images/sikessem.svg" alt="Sikessem Brand" height="96"/>
   </a>
-</div>
+</p>
 
-<div align="center">
+<p align="center">
 
 [![ci-icon]][ci-link]
 [![packagist-version-icon]][packagist-version-link]
@@ -12,7 +12,7 @@
 [![license-icon]][license-link]
 [![twitter-icon]][twitter-link]
 
-</div>
+</p>
 
 ***
 
@@ -111,7 +111,7 @@ All security vulnerabilities will be promptly addressed.
 [packagist-download-icon]: https://img.shields.io/packagist/dt/sikessem/devtools
 [packagist-download-link]: https://packagist.org/packages/sikessem/devtools "DevTools Downloads"
 
-[ci-icon]: https://github.com/sikessem/devtools/workflows/Tests/badge.svg
+[ci-icon]: https://github.com/sikessem/devtools/workflows/CI/badge.svg
 [ci-link]: https://github.com/sikessem/devtools/actions "DevTools CI"
 
 [twitter-icon]: https://img.shields.io/twitter/follow/sikessem.svg?label=@SikessemOrg
