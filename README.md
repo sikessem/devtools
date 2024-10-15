@@ -1,8 +1,10 @@
 <div align="center">
   <a href="https://github.com/sikessem" target="__blank" title="Sikessem">
-    <img src="https://github.com/sikessem/art/blob/HEAD/images/sikessem.svg" alt="Sikessem" height="96"/>
+    <img src="https://github.com/sikessem/art/blob/HEAD/images/sikessem.svg" alt="Sikessem Brand" height="96"/>
   </a>
-  <br/>
+</div>
+
+<div align="center">
 
 [![ci-icon]][ci-link]
 [![packagist-version-icon]][packagist-version-link]
