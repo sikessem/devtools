@@ -20,26 +20,26 @@
 [enabled-link]: https://github.com/sikessem/devtools "DevTools enabled"
 
 [packagist-version-icon]: https://img.shields.io/packagist/v/sikessem/devtools
-[packagist-version-link]: https://packagist.org/packages/sikessem/devtools "Sikessem DevTools Releases"
+[packagist-version-link]: https://packagist.org/packages/sikessem/devtools "DevTools Releases"
 
 [packagist-download-icon]: https://img.shields.io/packagist/dt/sikessem/devtools
-[packagist-download-link]: https://packagist.org/packages/sikessem/devtools "Sikessem DevTools Downloads"
+[packagist-download-link]: https://packagist.org/packages/sikessem/devtools "DevTools Downloads"
 
 [pr-icon]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg?color=brightgreen
 [pr-link]: [contrib-link] "PRs welcome!"
 
-[twitter-icon]: https://img.shields.io/twitter/follow/sikessem.svg?label=@sikessem_tweets
-[twitter-link]: https://twitter.com/intent/follow?screen_name=sikessem_tweets "Ping Sikessem"
+[twitter-icon]: https://img.shields.io/twitter/follow/sikessem.svg?label=@SikessemOrg
+[twitter-link]: https://twitter.com/intent/follow?screen_name=SikessemOrg "Ping Sikessem"
 
 [license-icon]: https://img.shields.io/badge/license-MIT-blue.svg
-[license-link]: https://github.com/sikessem/devtools/blob/HEAD/LICENSE "Sikessem DevTools License"
+[license-link]: https://github.com/sikessem/devtools/blob/HEAD/LICENSE "DevTools License"
 [conduct-link]: https://github.com/sikessem/.github/blob/HEAD/CODE_OF_CONDUCT.md
 [contrib-link]: https://github.com/sikessem/.github/blob/HEAD/CONTRIBUTING.md
 [discuss-link]: https://github.com/orgs/sikessem/discussions
 
 ***
 
-# 🧪 Sikessem DevTools
+# 🧪 PHP Dev Tools
 
 PHP development, debugging, testing and automation tools.
 
@@ -58,12 +58,12 @@ PHP development, debugging, testing and automation tools.
 
 ## 📋 Requirements
 
-> - **Requires [PHP 8.2+](https://php.net/releases/)** (at least 8.2.20 recommended to avoid potential bugs).
+> - **Requires [PHP 8.2+](https://php.net/releases/)** (at least 8.2.24 recommended to avoid potential bugs).
 > - **Requires [Composer v2+](https://getcomposer.org/)** to manage PHP dependencies.
 
 ## ⚡️ Installation
 
-Install [Sikessem DevTools](https://packagist.org/packages/sikessem/devtools) using [Composer](https://getcomposer.org/):
+Install [PHP Dev Tools](https://packagist.org/packages/sikessem/devtools) using [Composer](https://getcomposer.org/):
 
 - By including the dependency:
 
@@ -76,7 +76,7 @@ Install [Sikessem DevTools](https://packagist.org/packages/sikessem/devtools) us
   ```json
   {
     "require-dev" : {
-      "sikessem/devtools": "^0.7"
+      "sikessem/devtools": "^0.8"
     }
   }
   ```
