@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<p align="center">
+<div align="center">
 
 [![ci-icon]][ci-link]
 [![packagist-version-icon]][packagist-version-link]
@@ -12,7 +12,7 @@
 [![license-icon]][license-link]
 [![twitter-icon]][twitter-link]
 
-</p>
+</div>
 
 ***
 
