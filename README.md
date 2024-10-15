@@ -83,13 +83,14 @@ Larger discussions and proposals are discussed in [**sikessem/community**][discu
 
 ## 🔐 Security Reports
 
-If you discover a security vulnerability within [Sikessem][sikessem-link], please email [SIGUI Kessé Emmanuel](https://sigui.ci/) at [contact@sigui.ci](mailto:contact@sigui.ci). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within [Sikessem][sikessem-link], please email [Sigui Kessé Emmanuel][siguici-link] at [siguici@proton.me](mailto:siguici@proton.me). All security vulnerabilities will be promptly addressed.
 
 ***
 
 <div align="center"><sub>Made with ❤︎ by <a href="https://twitter.com/intent/follow?screen_name=siguici" style="content:url(https://img.shields.io/twitter/follow/siguici.svg?label=@siguici);margin-bottom:-6px">@siguici</a>.</sub></div>
 
 [sikessem-link]: https://github.com/sikessem "Sikessem"
+[siguici-link]: https://siguici.deno.dev "Sigui Kessé Emmanuel"
 
 [packagist-version-icon]: https://img.shields.io/packagist/v/sikessem/devtools
 [packagist-version-link]: https://packagist.org/packages/sikessem/devtools "DevTools Releases"
