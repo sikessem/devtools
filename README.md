@@ -1,41 +1,16 @@
 <div align="center">
+  <a href="https://github.com/sikessem" target="__blank" title="Sikessem">
+    <img src="https://github.com/sikessem/art/blob/HEAD/images/sikessem.svg" alt="Sikessem" height="96"/>
+  </a>
+  <br/>
 
-[![sikessem-logo]][sikessem-link]
-
-<br/>
-
+[![ci-icon]][ci-link]
 [![packagist-version-icon]][packagist-version-link]
 [![packagist-download-icon]][packagist-download-link]
 [![license-icon]][license-link]
-[![enabled-icon]][enabled-link]
-[![pr-icon]][pr-link]
 [![twitter-icon]][twitter-link]
 
 </div>
-
-[sikessem-logo]: https://github.com/sikessem/art/blob/HEAD/images/sikessem.svg
-[sikessem-link]: https://github.com/sikessem "Sikessem"
-
-[enabled-icon]: https://img.shields.io/badge/DevTools-enabled-brightgreen.svg?style=flat
-[enabled-link]: https://github.com/sikessem/devtools "DevTools enabled"
-
-[packagist-version-icon]: https://img.shields.io/packagist/v/sikessem/devtools
-[packagist-version-link]: https://packagist.org/packages/sikessem/devtools "DevTools Releases"
-
-[packagist-download-icon]: https://img.shields.io/packagist/dt/sikessem/devtools
-[packagist-download-link]: https://packagist.org/packages/sikessem/devtools "DevTools Downloads"
-
-[pr-icon]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg?color=brightgreen
-[pr-link]: [contrib-link] "PRs welcome!"
-
-[twitter-icon]: https://img.shields.io/twitter/follow/sikessem.svg?label=@SikessemOrg
-[twitter-link]: https://twitter.com/intent/follow?screen_name=SikessemOrg "Ping Sikessem"
-
-[license-icon]: https://img.shields.io/badge/license-MIT-blue.svg
-[license-link]: https://github.com/sikessem/devtools/blob/HEAD/LICENSE "DevTools License"
-[conduct-link]: https://github.com/sikessem/.github/blob/HEAD/CODE_OF_CONDUCT.md
-[contrib-link]: https://github.com/sikessem/.github/blob/HEAD/CONTRIBUTING.md
-[discuss-link]: https://github.com/orgs/sikessem/discussions
 
 ***
 
@@ -45,7 +20,7 @@ PHP development, debugging, testing and automation tools.
 
 ## 🔖 Contents
 
-- [🧪 Sikessem DevTools](#-sikessem-devtools)
+- [🧪 PHP Dev Tools](#-php-dev-tools)
   - [🔖 Contents](#-contents)
   - [📋 Requirements](#-requirements)
   - [⚡️ Installation](#️-installation)
@@ -111,3 +86,24 @@ If you discover a security vulnerability within [Sikessem][sikessem-link], pleas
 ***
 
 <div align="center"><sub>Made with ❤︎ by <a href="https://twitter.com/intent/follow?screen_name=siguici" style="content:url(https://img.shields.io/twitter/follow/siguici.svg?label=@siguici);margin-bottom:-6px">@siguici</a>.</sub></div>
+
+[sikessem-link]: https://github.com/sikessem "Sikessem"
+
+[packagist-version-icon]: https://img.shields.io/packagist/v/sikessem/devtools
+[packagist-version-link]: https://packagist.org/packages/sikessem/devtools "DevTools Releases"
+
+[packagist-download-icon]: https://img.shields.io/packagist/dt/sikessem/devtools
+[packagist-download-link]: https://packagist.org/packages/sikessem/devtools "DevTools Downloads"
+
+[ci-icon]: https://github.com/sikessem/devtools/workflows/Tests/badge.svg
+[ci-link]: https://github.com/sikessem/devtools/actions "DevTools CI"
+
+[twitter-icon]: https://img.shields.io/twitter/follow/sikessem.svg?label=@SikessemOrg
+[twitter-link]: https://twitter.com/intent/follow?screen_name=SikessemOrg "Ping Sikessem"
+
+[license-icon]: https://img.shields.io/badge/license-MIT-blue.svg
+[license-link]: https://github.com/sikessem/devtools/blob/HEAD/LICENSE "DevTools License"
+
+[conduct-link]: https://github.com/sikessem/.github/blob/HEAD/CODE_OF_CONDUCT.md
+[contrib-link]: https://github.com/sikessem/.github/blob/HEAD/CONTRIBUTING.md
+[discuss-link]: https://github.com/orgs/sikessem/discussions
